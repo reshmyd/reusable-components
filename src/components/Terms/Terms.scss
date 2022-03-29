@@ -1,0 +1,28 @@
+.termsForm {
+  h3 {
+    margin-bottom: 10px;
+  }
+  .checkbox {
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    input {
+      width: 5%;
+      margin-left: 0;
+    }
+    p {
+      width: 95%;
+    }
+  }
+  .terms {
+    padding: 20px;
+    background-color: lightgray;
+    margin-bottom: 30px;
+  }
+  button {
+    margin-top: 20px;
+    margin-right: 20px;
+  }
+}

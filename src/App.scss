@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(./assets/path4190.svg);
+  width: 100vw;
+  height: 100vh;
+  background: cover;
+}
+.App {
+  margin: 20px 100px;
+  color: purple;
+}
+.main {
+  
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 100px;
+
+}
+.tabs {
+  margin-top: 40px;
+  display: flex;
+  width: 100%;
+  
+}
+.main > div {
+  margin-bottom: 20px;
+}
+input, select {
+  color: rgb(46, 2, 46);
+  font-size: 18px;
+}
